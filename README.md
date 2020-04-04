@@ -1,0 +1,2 @@
+# BazelExample
+Use Bazel example
